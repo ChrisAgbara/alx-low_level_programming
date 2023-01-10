@@ -7,6 +7,7 @@
 * main - adds numbers. checks if number
 * @argc: number of arguments
 * @argv: the vector that hold the argument
+* Return: returns 0
 */
 
 int main(int argc, char **argv)
